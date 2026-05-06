@@ -1,0 +1,8 @@
+admin login :
+username - admin
+password - admin
+
+
+user login :
+username - kartik40
+password - Kartik@40
